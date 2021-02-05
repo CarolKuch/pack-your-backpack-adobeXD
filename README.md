@@ -6,6 +6,8 @@ This project is an preliminary graphical design of future application. The app w
 ## Technologies
 * Adobe XD
 
+## Screenshots
+![Example screenshot](./img/screenshot.jpg)
 
 ## Contact
 Created by [@CarolKuch] (https://github.com/CarolKuch)
